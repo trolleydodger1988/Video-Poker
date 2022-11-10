@@ -381,7 +381,7 @@ my_frame.pack(pady=20)
 # Create player frame
 player_frame = LabelFrame(
     my_frame,
-    text="Pick which cards to keep",
+    text="Pick which cards to keep, then Draw",
     font=("Bodoni MT Black", 12),
     bd=0,
     background="green",
